@@ -5,8 +5,9 @@ This collection of projects examines a dataset that contains information about c
 I worked on these projects with Yash Potdar, a fellow Data Science major at UC San Diego.
 
 ## nypd_permutation_test.ipynb
-**Goal**: To determine whether complaints made by Black individuals have a varying degree of success than complaints made by non-Black individuals
-This project has three focuses:
+**Goal**: To determine whether complaints made by African American individuals have a significantly different substantiation rate of their complaints than non African American individuals.
+
+The 3 core topics addressed in this notebook:
 1. Data cleaning process and exploratory data analysis (EDA)
 2. Assessment of Missingness of Data
 3. Permutation test
