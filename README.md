@@ -2,7 +2,7 @@
 
 This collection of projects examines a dataset that contains information about complaints made against the New York Police Department (NYPD) to the Civilian Complaint Review Board. The dataset has 33,358 individual civilian complaints made in New York City ranging from September 1985 to January 2020. The dataset is used in the project to generate insights on police misconduct on the different minority communities in New York.
 
-I worked on these projects with Kenneth Nguyen, a fellow Data Science major at UC San Diego.
+I worked on these projects with Yash Potdar, a fellow Data Science major at UC San Diego.
 
 ## nypd_permutation_test.ipynb
 **Goal**: To determine whether complaints made by Black individuals have a varying degree of success than complaints made by non-Black individuals
